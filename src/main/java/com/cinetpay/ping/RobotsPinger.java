@@ -39,7 +39,7 @@ public class RobotsPinger {
 	}
 	
 	/**
-	 * Effectue un ping sur un robot
+	 * Effectue un ping sur vers tous les robots
 	 * @param robot
 	 * @throws IOException 
 	 * @throws FirebaseMessagingException 
