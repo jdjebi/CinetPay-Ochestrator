@@ -33,7 +33,7 @@ import com.cinetpay.repositories.RobotRepository;
  * Classe representant l'API pour manipuler les robots du point de vue de l'orchestrateurs
  */
 @RestController
-public class RobotController {
+public class RobotsController {
 
 	@Autowired
 	RobotRepository robotRepository;
